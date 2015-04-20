@@ -1,0 +1,38 @@
+{
+	"backgroundImage" : "./images/bg.jpg",
+	"headers" : [
+	{
+		"name" : "Signature Cakes", 
+		"items": [ 
+		{"name" : "Two/Three layer Cake" , "description" : "Item1 is a special item", "price" : "TBD", "pic" : "./images/bg.png"},
+		{"name" : "Mango Mousse Cake" , "description" : "Item1 is a special item", "price" : "TBD", "pic" : "./images/bg.png"},
+		{"name" : "Tres Leches" , "description" : "Item1 is a special item", "price" : "TBD", "pic" : "./images/bg.png"},
+		{"name" : "Tiramisu" , "description" : "Item1 is a special item", "price" : "TBD", "pic" : "./images/bg.png"},
+		{"name" : "Black Forest cake" , "description" : "Item1 is a special item", "price" : "TBD", "pic" : "./images/bg.png"},
+		{"name" : "Rasberry Mousse Cake" , "description" : "Item1 is a special item", "price" : "TBD", "pic" : "./images/bg.png"},
+		{"name" : "All Vanilla Cake" , "description" : "Item1 is a special item", "price" : "TBD", "pic" : "./images/bg.png"},
+		{"name" : "Vanilla custard cake" , "description" : "Item1 is a special item", "price" : "TBD", "pic" : "./images/bg.png"},
+		{"name" : "Tuxedo cheesecake" , "description" : "Item1 is a special item", "price" : "TBD", "pic" : "./images/bg.png"},
+		{"name" : "Coconut Mango Mousse Cake" , "description" : "Item1 is a special item", "price" : "TBD", "pic" : "./images/bg.png"},
+		{"name" : "Strawberry Mousseline Cake" , "description" : "Item1 is a special item", "price" : "TBD", "pic" : "./images/bg.png"},
+		{"name" : "Rainbow Cake" , "description" : "Item1 is a special item", "price" : "TBD", "pic" : "./images/bg.png"}]
+		}]
+	}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset = "UTF-8"/>
+	<title>Home</title>
+	<script src="angular.min.js"></script>
+	
+	<link href='http://fonts.googleapis.com/css?family=Lobster|Indie+Flower' rel='stylesheet' type='text/css'>	
+
+	<link rel="stylesheet" text="text/css" href="MenuApp.css">
+	
+	<link rel="stylesheet" href="jquery-ui.min.css">
+	<script src="jquery-2.1.3.min.js"></script>
+	<script src="jquery-ui.min.js"></script>
+
+	<link rel="stylesheet" text="text/css" href="bootstrap.css">
+</head>
+<body>
+	<script src="MenuApp.js"></script>
+	<div ng-app="MenuApp">
+		<input type='file' on-read-file='getContent($fileContent)'/>
+		<div ng-controller="MenuCtrl">
+			<menu></menu>
+		</div>
+	</div>
+</body>
+</html>
